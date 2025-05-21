@@ -39,7 +39,7 @@ while True:
     s.send("acknowledgement received from server".encode())
 ```
 ## OUPUT
-![Screenshot 2024-10-04 202905](https://github.com/user-attachments/assets/a8132f21-675d-4929-95da-4a0788c3f0ee)
+![image](https://github.com/user-attachments/assets/fbea064a-b4b3-4a65-991b-5de86d19b35b)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
